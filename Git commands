@@ -1,0 +1,10 @@
+git init
+git add . 
+git commit -m "intial commit"
+git branch -M
+git branch -M main
+git remote add origin https://github.com/Pranali1225/LearningJavaATB12xprogram
+git remote -v
+git push -u origin master
+git branch
+git push origin main
